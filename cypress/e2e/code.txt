@@ -1,0 +1,11 @@
+Plano de desenvolvimentos de teste:
+
+testes
+-Cadastro admin
+-Login adm
+-adicionar carrinho
+
+API
+-Criar usuario
+-login api
+-Listar prod.
