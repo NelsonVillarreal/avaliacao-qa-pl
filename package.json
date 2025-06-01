@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "test:all": "cypress run --spec \"cypress/e2e/**/*.cy.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
