@@ -5,10 +5,18 @@ Este projeto automatiza cenários E2E e testes de API utilizando Cypress para av
 📥 1. Clonar o repositório
 Clone o projeto em uma pasta de sua preferência:
 
+SSH - Via SSH (precisa de chave SSH configurada no GitHub)
 ```bash
 git clone git@github.com:NelsonVillarreal/avaliacao-qa-pl.git
 ```` 
 <img src="assets/01-Clonar-repo.png" alt="Execução dos git clone" />
+
+Ou caso não tenha uma chave SHH pode clonar com:
+
+HTTPs - Via HTTPS (não precisa de chave SSH)
+```bash
+git clone https://github.com/NelsonVillarreal/avaliacao-qa-pl.git
+```` 
 
 📂 2. Acesse o diretório do projeto
 ```bash
